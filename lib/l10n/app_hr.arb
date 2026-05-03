@@ -130,7 +130,7 @@
   "@chooseTypeClear": {
     "description": "Tooltip for a button to clear search field contents."
   },
-  "warningFixme": "Fixme: {value}",
+  "warningFixme": "Popravi me: {value}",
   "@warningFixme": {
     "description": "Warning message for when an object has a non-empty fixme value.",
     "placeholders": {
