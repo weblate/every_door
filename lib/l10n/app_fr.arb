@@ -1254,7 +1254,7 @@
   "@settingsCachesDownloadMap": {
     "description": "Button label for pre-downloading OSM map tiles."
   },
-  "settingsCachesDownloadSatellite": "Télécharger Satellite",
+  "settingsCachesDownloadSatellite": "Télécharger les images satellite",
   "@settingsCachesDownloadSatellite": {
     "description": "Button label for pre-downloading Satellite imagery tiles."
   },
@@ -1343,5 +1343,9 @@
   "pluginsSeeLogs": "Voir les journaux",
   "@pluginsSeeLogs": {
     "description": "Button title to browse the system log when a plugin installation error has occurred."
+  },
+  "mapStraight": "Réorienter au nord",
+  "@mapStraight": {
+    "description": "Tooltip for the button showing the rotation to rotate it back to 'north up'."
   }
 }
