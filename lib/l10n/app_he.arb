@@ -790,7 +790,7 @@
     "description": "Tool description: underground water pipe, culvert. Keep it short."
   },
   "faqYellow": "למה חלק ממספרי הבתים מופיעים בצהוב?",
-  "faqFloors": "האם דירות ‚3’ ו־‚‎/3’ הן אותו הדבר?",
+  "faqFloors": "האם קומות ‚3’ ו־‚‎/3’ הן אותו הדבר?",
   "faqEntranceContent": "למטה יש שורה של כפתורי מצב: מיפוי זעיר, שירותים לציבור, כניסות והערות.\n\nבמצב כניסות, יש לגעת או לגרור את כפתור הדלת מהפינה התחתונה למפה.",
   "faqChangeType": "איך לשנות את סוג השירות לציבור?",
   "faqTagging": "כל שאלות התיוג",
@@ -799,7 +799,7 @@
   "@drawScribble": {
     "description": "Tool description: scribble (type-less drawings). Keep it short."
   },
-  "messageDataObsolete": "הנתונים ישנים, לחץ כאן כדי לרענן",
+  "messageDataObsolete": "הנתונים ישנים, נא לגעת כאן כדי לרענן",
   "@messageDataObsolete": {
     "description": "Message that appears on the main screen when OSM data is outdated."
   },
@@ -877,7 +877,7 @@
   "@fieldCheckboxNo": {
     "description": "Checkbox name for no."
   },
-  "messageNoData": "אין נתונים, לחץ כאן כדי להוריד",
+  "messageNoData": "אין נתונים, נא לגעת כאן כדי להוריד",
   "@messageNoData": {
     "description": "Message that appears on the main screen when there's no OSM data."
   },
